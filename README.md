@@ -1,6 +1,6 @@
-# Badenlight
+# Banco Escape
 
-Alunos: Thiago Pereira Alves, Bruno Fuzeira Chaul, Letícia da Silva Bezerra
+Aluna: Letícia da Silva Bezerra
 
 Turma: D1 - Análise e desenvolvimento de sistemas
 
